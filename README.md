@@ -4,5 +4,6 @@ This repo contains index.html,script.js,style.css and images(assests for styling
 Webapp url Link: https://likithagithub.github.io/Clothing-web-app/
 Here are images of the we app.
 <img width="960" alt="2024-02-16" src="https://github.com/likithagithub/Clothing-web-app/assets/99140002/74de3892-ceb2-4b9a-9c78-d733faacad87">
-![image](https://github.com/likithagithub/Clothing-web-app/assets/99140002/9dba03fb-4eb0-4ce6-9698-09152d76f746)
+<img width="960" alt="2024-02-16 (1)" src="https://github.com/likithagithub/Clothing-web-app/assets/99140002/ae51571b-6df5-4737-857e-b5590bb17a2c">
+
 
